@@ -1,0 +1,60 @@
+header  {
+    display: grid;
+    grid-template-columns: 50px auto 240px ;
+    background-color: rgb(172, 78, 78);
+}
+header h1 {
+    margin:auto ;
+    font-family: "pacifico", cursive ;
+    font-style: italic;
+}
+header h5 {
+    margin: auto;
+}
+.divfo {
+    background-image: url('../image/hr-img.png');
+    background-repeat: repeat;
+    width: 100%;
+    height: 10px ;
+}
+footer {
+    display: grid;
+    grid-template-columns: auto , auto;
+   
+
+}
+
+
+.endpic {
+    margin: auto;
+    padding: 10px 60px;
+
+
+}
+main {
+    margin: auto;
+    padding: 10px 350px;
+}
+footer
+ {
+    margin: auto;
+    padding: 10px 350px;
+}
+.call {
+    padding: 10px 10px;
+    background-color: crimson;
+    margin: auto;
+    color:white;
+
+}
+.end {
+    margin: auto;
+    padding: 10px 350px;
+}
+footer section
+{
+    
+ display: flex;
+     grid-template-columns: auto , auto , auto ;
+    /* align-items: center;  */
+}
